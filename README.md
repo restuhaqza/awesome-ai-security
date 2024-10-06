@@ -16,8 +16,6 @@ A curated list of awesome resources, tools, research papers, and projects relate
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) - A comprehensive framework for managing risks associated with AI, focusing on risk assessment, mitigation, and governance.
 - [ISO/IEC 23894:2023](https://www.iso.org/standard/77304.html) - Guidance on risk management for artificial intelligence.
 - [Google Secure AI Framework](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-secure-ai-framework) - A framework for securely implementing AI systems.
-- [ISO/IEC 42001](https://www.iso.org/standard/84560.html) - Artificial Intelligence Management System (under development).
-
 ## Tools and Frameworks
 
 ### Defensive Tools
