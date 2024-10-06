@@ -51,9 +51,13 @@ A curated list of awesome resources, tools, research papers, and projects relate
 - [NeurIPS Workshop on Security in Machine Learning](https://secml-workshop.github.io/) - Academic workshop on machine learning security.
 
 ## Blogs and Articles
-- [Google AI Security Blog](https://security.googleblog.com/search/label/AI%20security)
+- [Google AI Security Blog](https://ai.google/responsibility/)
 - [Microsoft AI Security and Ethical AI](https://www.microsoft.com/en-us/ai/responsible-ai)
-- [Institute for Ethical AI & Machine Learning Blog](https://ethical.institute/blog.html)
+- [OpenAI Blog - AI Safety](https://openai.com/blog/tags/ai-safety)
+- [Anthropic's AI Safety Research Overview](https://www.anthropic.com/research)
+- [DeepMind Safety & Ethics](https://deepmind.com/safety-and-ethics)
+- [Zscaler ThreatLabz AI Security Insights](https://www.zscaler.com/blogs/security-research)
+- [Orca Security AI Security Blog](https://orca.security/resources/blog/category/ai-security/)
 
 ## Community Resources
 - [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
