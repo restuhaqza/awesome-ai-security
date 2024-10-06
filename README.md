@@ -60,7 +60,7 @@ A curated list of awesome resources, tools, research papers, and projects relate
 ## Community Resources
 - [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
 - [ENISA Multilayer Framework for Good Cybersecurity Practices for AI](https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai)
-- [MLSecOps Top 10 by Institute for Ethical AI & Machine Learning](https://ethical.institute/mlsecops.html)
+- [MLSecOps Top 10 by Institute for Ethical AI & Machine Learning](https://ethical.institute/security.html)
 
 ## Key Topics
 - AI in Cybersecurity
