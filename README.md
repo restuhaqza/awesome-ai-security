@@ -21,7 +21,6 @@ A curated list of awesome resources, tools, research papers, and projects relate
 ## Tools and Frameworks
 
 ### Defensive Tools
-- [Guardrail.ai](https://github.com/ShreyaR/guardrail.ai) - A Python package to add structure, type, and quality guarantees to the outputs of large language models (LLMs).
 - [ProtectAI's model scanner](https://github.com/protectai/model-scanner) - A security scanner for detecting suspicious actions in serialized ML models.
 - [rebuff](https://github.com/woop/rebuff) - A prompt injection detector.
 - [langkit](https://github.com/whylabs/langkit) - A toolkit for monitoring language models and detecting attacks.
