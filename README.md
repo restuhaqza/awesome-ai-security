@@ -144,12 +144,13 @@ A curated list of awesome resources, tools, research papers, and projects relate
 - [Coursera: AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) - Introduction to AI with ethical considerations.
 - [DeepLearning.AI: AI Security Specialization](https://www.deeplearning.ai/) - Courses on securing AI systems.
 - [Adversarial Machine Learning Tutorial](https://adversarial-ml-tutorial.org/) - Comprehensive tutorial on adversarial ML.
-- [OWASP LLM Top 10 Educational Resources](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - Learning materials for LLM security.
+- [Practical AI Security: Attacks, Defenses, and Applications](https://academy.8ksec.io/course/practical-ai-security) - Course on AI security.
 
 ### Workshops and Labs
 - [AI Village CTF](https://www.kaggle.com/competitions/ai-village-ctf) - Capture the Flag competitions focused on AI security.
 - [Microsoft Learn: Responsible AI](https://learn.microsoft.com/en-us/training/paths/responsible-ai-business/) - Training path for responsible AI.
 - [Google's Secure AI Framework Training](https://cloud.google.com/security/ai) - Security training for AI systems.
+- [AI/LLM Exploitation Challenges](https://academy.8ksec.io/course/ai-exploitation-challenges) - Exploitation challenges focused on AI security.
 
 ### Video Resources
 - [Rob Miles - AI Safety](https://www.youtube.com/@RobertMilesAI) - YouTube channel on AI safety.
