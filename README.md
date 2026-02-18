@@ -150,6 +150,7 @@ A curated list of awesome resources, tools, research papers, and projects relate
 - [AI Village CTF](https://www.kaggle.com/competitions/ai-village-ctf) - Capture the Flag competitions focused on AI security.
 - [Microsoft Learn: Responsible AI](https://learn.microsoft.com/en-us/training/paths/responsible-ai-business/) - Training path for responsible AI.
 - [Google's Secure AI Framework Training](https://cloud.google.com/security/ai) - Security training for AI systems.
+- [PromptTrace](https://prompttrace.airedlab.com/) - Interactive AI security training platform with 7 attack labs, a 15-level Gauntlet, and real-time Context Trace for practicing prompt injection, defense bypass, and tool abuse against real LLMs.
 
 ### Video Resources
 - [Rob Miles - AI Safety](https://www.youtube.com/@RobertMilesAI) - YouTube channel on AI safety.
