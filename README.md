@@ -38,6 +38,7 @@ A curated list of awesome resources, tools, research papers, and projects relate
 - [LLM Guard](https://github.com/protectai/llm-guard) - A comprehensive security toolkit for LLM applications.
 - [Microsoft Presidio](https://github.com/microsoft/presidio) - Context-aware PII detection and anonymization.
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) - Add guardrails to LLM applications.
+- [OneCLI](https://github.com/onecli/onecli) - Open-source credential vault for AI agents. Rust HTTP gateway injects API credentials transparently so agents never hold raw keys.
 
 ### Detection and Analysis
 - [StringSifter](https://github.com/fireeye/stringsifter) - A tool that ranks strings based on their relevance for malware analysis.
