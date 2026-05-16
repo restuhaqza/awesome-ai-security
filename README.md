@@ -36,6 +36,7 @@ A curated list of awesome resources, tools, research papers, and projects relate
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - An open-source toolkit for adding programmable guardrails to LLM-based conversational systems.
 - [Llama Guard](https://github.com/meta-llama/PurpleLlama/tree/main/Llama-Guard) - A safeguard model for human-AI conversations.
 - [LLM Guard](https://github.com/protectai/llm-guard) - A comprehensive security toolkit for LLM applications.
+- [APort](https://aport.io/) - Runtime policy and verification layer for AI agents and MCP-connected tools.
 - [Microsoft Presidio](https://github.com/microsoft/presidio) - Context-aware PII detection and anonymization.
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) - Add guardrails to LLM applications.
 
