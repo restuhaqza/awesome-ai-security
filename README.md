@@ -37,6 +37,7 @@ A curated list of awesome resources, tools, research papers, and projects relate
 - [Llama Guard](https://github.com/meta-llama/PurpleLlama/tree/main/Llama-Guard) - A safeguard model for human-AI conversations.
 - [LLM Guard](https://github.com/protectai/llm-guard) - A comprehensive security toolkit for LLM applications.
 - [Microsoft Presidio](https://github.com/microsoft/presidio) - Context-aware PII detection and anonymization.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPL-3.0) Privacy Gateway that keeps sensitive data (IPs, hosts, credentials, PII) from reaching the LLM via deterministic placeholders rehydrated locally, with anti-exfiltration controls.
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) - Add guardrails to LLM applications.
 
 ### Detection and Analysis
