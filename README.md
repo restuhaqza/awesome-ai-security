@@ -30,7 +30,7 @@ A curated list of awesome resources, tools, research papers, and projects relate
 ## Tools and Frameworks
 
 ### Defensive Tools
-- [Ice Phi - Enterprise Shield](https://github.com/arconRising/icephi-python) - Lightning-fast, zero-logging prompt injection defense gateway middleware for FastAPI applications.
+- [Ice Phi - Enterprise Shield](https://github.com/Ice-Phi/icephi-python) - Lightning-fast, zero-logging prompt injection defense gateway middleware for FastAPI applications.
 - [ProtectAI's ModelScan](https://github.com/protectai/modelscan) - A security scanner for detecting suspicious actions in serialized ML models.
 - [rebuff](https://github.com/woop/rebuff) - A prompt injection detector.
 - [langkit](https://github.com/whylabs/langkit) - A toolkit for monitoring language models and detecting attacks.
